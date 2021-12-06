@@ -13,7 +13,7 @@ on:
 #   STORAGE_ACCOUNT 
 env:
   AZURE_RESOURCE_GROUP: mynewmlops1                #set this to your resource group name 
-  STORAGE_ACCOUNT: mltraindata12345                ##set this to your storage-account-name
+  STORAGE_ACCOUNT: mltraindata12345                #set this to your storage-account-name
     
 jobs:
   deployment:
